@@ -1,0 +1,9 @@
+export const CREDENTIALS_SYNC = "";
+export const REG_CREDENTIALS_SYNC = "";
+export const Login="";
+export const TOTAL_BOX = "TOTAL_BOX";
+export const USER_DATA = "USER_DATA";
+export const GET_USER_BOX = "GET_USER_BOX";
+export const START_FETCHING = "";
+export const END_FETCHING = "";
+export const EMAIL_PASWORD_SYNC = "";
